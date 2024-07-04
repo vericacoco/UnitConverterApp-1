@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Glavinceski\\Desktop\\UnitConversionApp\\UnitConversionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E538A89B-5C36-4DDD-9127-70040C9C3385}|UnitConversionApp\\UnitConversionApp.csproj|c:\\users\\glavinceski\\desktop\\unitconversionapp\\unitconversionapp\\unitconversionapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E538A89B-5C36-4DDD-9127-70040C9C3385}|UnitConversionApp\\UnitConversionApp.csproj|solutionrelative:unitconversionapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E538A89B-5C36-4DDD-9127-70040C9C3385}|UnitConversionApp\\UnitConversionApp.csproj|C:\\Users\\Glavinceski\\Desktop\\UnitConversionApp\\UnitConversionApp\\unitconversionapp\\data_converter_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E538A89B-5C36-4DDD-9127-70040C9C3385}|UnitConversionApp\\UnitConversionApp.csproj|solutionrelative:unitconversionapp\\data_converter_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E538A89B-5C36-4DDD-9127-70040C9C3385}|UnitConversionApp\\UnitConversionApp.csproj|C:\\Users\\Glavinceski\\Desktop\\UnitConversionApp\\UnitConversionApp\\unitconversionapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E538A89B-5C36-4DDD-9127-70040C9C3385}|UnitConversionApp\\UnitConversionApp.csproj|solutionrelative:unitconversionapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E538A89B-5C36-4DDD-9127-70040C9C3385}|UnitConversionApp\\UnitConversionApp.csproj|C:\\Users\\Glavinceski\\Desktop\\UnitConversionApp\\UnitConversionApp\\unitconversionapp\\volume_converter_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E538A89B-5C36-4DDD-9127-70040C9C3385}|UnitConversionApp\\UnitConversionApp.csproj|solutionrelative:unitconversionapp\\volume_converter_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 410,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data_Converter_Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Glavinceski\\Desktop\\UnitConversionApp\\UnitConversionApp\\UnitConversionApp\\Data_Converter_Menu.cs",
+              "RelativeDocumentMoniker": "UnitConversionApp\\Data_Converter_Menu.cs",
+              "ToolTip": "C:\\Users\\glavi\\source\\repos\\UnitConversionApp\\UnitConversionApp\\Data_Converter_Menu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\glavi\\source\\repos\\UnitConversionApp\\UnitConversionApp\\Data_Converter_Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:26:52.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Volume_Converter_Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Glavinceski\\Desktop\\UnitConversionApp\\UnitConversionApp\\UnitConversionApp\\Volume_Converter_Menu.cs",
+              "RelativeDocumentMoniker": "UnitConversionApp\\Volume_Converter_Menu.cs",
+              "ToolTip": "C:\\Users\\glavi\\source\\repos\\UnitConversionApp\\UnitConversionApp\\Volume_Converter_Menu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\glavi\\source\\repos\\UnitConversionApp\\UnitConversionApp\\Volume_Converter_Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:10:52.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Glavinceski\\Desktop\\UnitConversionApp\\UnitConversionApp\\UnitConversionApp\\Form1.cs",
+              "RelativeDocumentMoniker": "UnitConversionApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Glavinceski\\Desktop\\UnitConversionApp\\UnitConversionApp\\UnitConversionApp\\Form1.cs",
+              "RelativeToolTip": "UnitConversionApp\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:10:31.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Glavinceski\\Desktop\\UnitConversionApp\\UnitConversionApp\\UnitConversionApp\\Form1.cs",
+              "RelativeDocumentMoniker": "UnitConversionApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Glavinceski\\Desktop\\UnitConversionApp\\UnitConversionApp\\UnitConversionApp\\Form1.cs [Design]",
+              "RelativeToolTip": "UnitConversionApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:10:26.173Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
